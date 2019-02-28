@@ -13,5 +13,12 @@ Code examples used for DEVNET-1599 Network Automation Using Unified API. All tes
 When installing NAPALM, be sure to install the latest version (2.X) as there were fundamental changes that happened between NAPALM 1.X and 2.X. You can install NAPALM with pip:
 
 ```
+python3 -m venv venv
+source venv/bin/activate
+python -V
+Python 3.6.5
+```
+
+```
 pip install -r requirements.txt
 ```
