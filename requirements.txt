@@ -1,2 +1,1 @@
-napalm
-nornir
+napalm==2.3.2
